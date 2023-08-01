@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e745ab528dc941b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters (PCs)/Finnegan.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters (PCs)/Finnegan.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters (PCs)/Finnegan.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -133,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,8 +160,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "42bac334d77c7c0a",
+  "active": "8e745ab528dc941b",
   "lastOpenFiles": [
+    "Characters (PCs)/Finnegan.md",
+    "conflict-files-obsidian-git.md",
     "Characters (PCs)/Jackie.md",
     "Characters (PCs)/KC.md",
     "Characters (PCs)/S1R3N.md",
@@ -157,7 +171,6 @@
     "Notes/Session I.md",
     "NPCs/Heather.md",
     "NPCs/Clarence.md",
-    "Characters (PCs)/Finnegan.md",
     "NPCs/Jade.md",
     "NPCs",
     "Excalidraw/Drawing 2023-07-31 13.25.06.excalidraw.md",
