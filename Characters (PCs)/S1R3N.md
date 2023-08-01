@@ -1,0 +1,6 @@
+- Backstory
+	- Family killed by unknown corpo
+	- Grew up homeless
+- Motivations
+	- 
+- Goals
