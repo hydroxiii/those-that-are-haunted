@@ -1,4 +1,3 @@
-
 - Backstory
 - Motivations
 - Goals

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Session I.md",
+                "file": "Characters (PCs)/Finnegan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Session I.md",
+                "file": "Characters (PCs)/Finnegan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Session I.md",
+                "file": "Characters (PCs)/Finnegan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Session I.md"
+                "file": "Characters (PCs)/Finnegan.md"
               }
             }
           }
@@ -150,16 +150,16 @@
   },
   "active": "42bac334d77c7c0a",
   "lastOpenFiles": [
-    "NPCs/Clarence.md",
+    "Characters (PCs)/Jackie.md",
+    "Characters (PCs)/KC.md",
+    "Characters (PCs)/S1R3N.md",
+    "Characters (PCs)/Vena Cava.md",
     "Notes/Session I.md",
     "NPCs/Heather.md",
-    "NPCs/Jade.md",
-    "Characters (PCs)/S1R3N.md",
-    "NPCs",
-    "Characters (PCs)/Vena Cava.md",
-    "Characters (PCs)/KC.md",
-    "Characters (PCs)/Jackie.md",
+    "NPCs/Clarence.md",
     "Characters (PCs)/Finnegan.md",
+    "NPCs/Jade.md",
+    "NPCs",
     "Excalidraw/Drawing 2023-07-31 13.25.06.excalidraw.md",
     "Excalidraw",
     "Notes",
